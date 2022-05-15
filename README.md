@@ -1,1 +1,2 @@
-# GitConnectionTester
+Git Connection Tester
+<!-- Triforce -->
